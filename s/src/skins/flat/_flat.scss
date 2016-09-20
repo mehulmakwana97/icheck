@@ -1,0 +1,6 @@
+
+$icheck-img-path: '/s/img/flat/' !default;
+
+@import "flat-mixins";
+
+@include icheck-flat("blue");

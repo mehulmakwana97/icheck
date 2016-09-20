@@ -18,6 +18,10 @@
 		border-radius: 6px;
 	}
 
+	.iradio_flat-#{$skin} {
+		border-radius: 100%;
+	}
+
 	.icheckbox_flat-#{$skin} {
 		background-position: 0 0;
 		&.checked {
